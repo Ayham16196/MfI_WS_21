@@ -2,9 +2,6 @@
 # Taken and adapted from CS50x (David J. Malan)
 
 import csv
-import sys
-import random
-import argparse
 
 # Number of simluations to run
 N = 1000
